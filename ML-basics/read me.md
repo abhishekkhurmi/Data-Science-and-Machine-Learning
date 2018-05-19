@@ -7,4 +7,4 @@ Libraries used:
 * Numpy
 * Scikit-learn
 
-Interactive visualizations using Jupyter notebook.
+Jupyter notebook is used as an editor to create interactive visualizations.
